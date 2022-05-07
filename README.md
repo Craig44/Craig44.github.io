@@ -1,0 +1,2 @@
+# About
+This is a github page that hosts a static webpage relating to my work and research. Currently there is only one active site [https://craig44.github.io/BookDownExample/](https://craig44.github.io/BookDownExample/) which demonstrates how to add a Rmarkdown bookdown to any repo and host it using github pages. The repository that relates to this bookdown site can be found [here](https://github.com/Craig44/BookDownExample)

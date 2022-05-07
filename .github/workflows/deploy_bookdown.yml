@@ -46,5 +46,5 @@ jobs:
        env:
           GH_TOKEN: ${{ secrets.GH_PAT }} # https://github.com/settings/tokens
        with:
-          EMAIL: ${{ secrets.EMAIL }}               # must be a verified email
+          EMAIL: Craig.Marsh@niwa.co.nz               # must be a verified email
           BUILD_DIR: _book/                     # "_site/" by default
